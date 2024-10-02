@@ -1,0 +1,18 @@
+ETag: "6ac4f9782bd688a8e6fb9c0607839794"
+accept: */*
+authorization: LOW fpJYfLnxbLmCEHqU:REDACTED_BY_IA_S3
+connection: close
+content-length: 4525
+expect: 100-continue
+host: s3.us.archive.org
+user-agent: curl/7.22.0 (i686-pc-linux-gnu) libcurl/7.22.0 OpenSSL/1.0.1 zlib/1.2.3.4 libidn/1.23 librtmp/2.3
+x-amz-auto-make-bucket: 1
+x-archive-ignore-preexisting-bucket: 1
+x-archive-meta-contributor: Emory University, Manuscript Archive and Rare Books Library
+x-archive-meta-mediatype: texts
+x-archive-meta-ppi: 300
+x-archive-meta-sponsor: Emory University, Manuscript Archive and Rare Books Library
+x-archive-meta01-collection: civilwardocuments
+x-archive-meta03-collection: emory
+x-archive-queue-derive: 0
+x-upload-date: 2013-03-10T13:47:01.000Z
